@@ -11,6 +11,9 @@ This project demonstrates how to read data from an MPU9255 sensor and multiple a
 - Jumper Wires
 - Breadboard
 
+  ![image](https://github.com/user-attachments/assets/3128a5dc-4fbc-4622-93ac-db98be26b10e)
+
+
 ## Pin Configuration
 
 ### Transmitter ESP32
